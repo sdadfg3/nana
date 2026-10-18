@@ -1,9 +1,11 @@
-# IP engineering study in Persian
+# مطالعه تخصصی IP در شبکه‌های مخابراتی
 
-This proposed export contains the Persian study about IP, telecommunications, security and VPNs.
+گزارش فارسی درباره مبانی IP، معماری مخابرات، امنیت و VPN برای مهندسان شبکه.
 
-- IP_Report_FA.docx: editable Word report
-- IP_Report_FA.pdf: 75-page PDF report
-- IP_Complete_Package_FA.zip: report, slides, source text, fonts and licenses
+## دریافت فایل‌ها
 
-This export is prepared locally. It has not been published.
+- [Word قابل ویرایش](https://raw.githubusercontent.com/sdadfg3/nana/ip-report-download/IP_Report_FA.docx)
+- [گزارش PDF؛ ۷۵ صفحه](https://raw.githubusercontent.com/sdadfg3/nana/ip-report-download/IP_Report_FA.pdf)
+- [بسته کامل؛ گزارش، پاورپوینت، متن، فونت‌ها و مجوزها](https://raw.githubusercontent.com/sdadfg3/nana/ip-report-download/IP_Complete_Package_FA.zip)
+
+این فایل‌ها با اجازه کاربر در شاخه جداگانه `ip-report-download` منتشر شده‌اند. محتوای شاخه، خروجی مطالعه آموزشی است.
